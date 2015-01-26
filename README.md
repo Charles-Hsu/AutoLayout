@@ -3,3 +3,4 @@ IOS8 Constraints and Size Classes(https://www.youtube.com/watch?x-yt-ts=14219146
 
 ![](http://i.imgur.com/S6cG0Qz.png)
 ![](http://i.imgur.com/bN7sBhT.png)
+![](http://i.imgur.com/gm1aBqh.png)
